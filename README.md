@@ -7,11 +7,11 @@ For the future, dear Wafa, please plan before you code and hate more code so you
 
 ## Example in the code
 To make this easier to understand, I made up an example in my head that is completely un inspired by a real life story.
-Vendor Asos has nice clothes
-Customer Wafa likes shopping.
-Vendor Asos has an item out of stock and Wafa has her eyes on it
-Wafa registers an interest in the item so that Asos notifies Wafa when its back in stock
-Luckily, within 5 seconds of running the script, Asos gets the item back in stock and notifies Wafa yayy!
-Wafa immediately buys the item before any other customer and its a happy ending :hamster-dance:
+- Vendor Asos has nice clothes
+- Customer Wafa likes shopping.
+- Vendor Asos has an item out of stock and Wafa has her eyes on it
+- Wafa registers an interest in the item so that Asos notifies Wafa when its back in stock
+- Luckily, within 5 seconds of running the script, Asos gets the item back in stock and notifies Wafa yayy!
+- Wafa immediately buys the item before any other customer and its a happy ending :hamster-dance:
 
 Thank you observables <3
